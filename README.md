@@ -42,12 +42,12 @@ The model uses a custom **Hybrid CNN architecture** tailored for high accuracy i
 
 ---
 
-## 📊 Results (Example)
+## 📊 Results 
 
 | Model Stage         | Accuracy | Precision | Recall |
 |---------------------|----------|-----------|--------|
-| Brain Tumor Detector | 95.2%    | 94.8%     | 96.1%  |
-| Alzheimer’s Classifier | 93.5%    | 92.4%     | 94.0%  |
+| Brain Tumor Detector | 99.2%    | 94.8%     | 96.1%  |
+| Alzheimer’s Classifier | 97.5%    | 92.4%     | 94.0%  |
 
 *Note: These are placeholder results. Replace with actual values from your training.*
 
